@@ -1,0 +1,5 @@
+n = int(input())
+s = str(n)
+s = "".join(reversed(s))
+nu = int(s)
+print(nu)
